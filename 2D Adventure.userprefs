@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\musuh.cs">
+    <Files>
+      <File FileName="Assets\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\musuh.cs" Line="14" Column="39" />
+      <File FileName="Assets\Bendera.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraFollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\RachmatGunawan\2D Adventure\Assets\musuh.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
